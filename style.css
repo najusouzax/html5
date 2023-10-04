@@ -1,5 +1,13 @@
-p {
-     text-align: center;
-     background-color: grey;
 
+
+h1, p {
+     text-align: center;
+}
+
+body{
+     background-color: #cccc
+}
+
+strong{
+     color:red;
 }
