@@ -6,8 +6,10 @@ h1, p {
 
 body{
      background-color: #cccc
+
+
 }
 
-strong{
+ em strong{
      color:red;
 }
